@@ -1,0 +1,91 @@
+h1,
+p {
+    color: burlywood;
+}
+
+.p1 {
+    color: rgb(43, 164, 116);
+}
+
+.center-image {
+    max-width: 100%;
+    height: auto;
+}
+
+h1,
+p {
+    color: black;
+}
+
+.black {
+    color: black;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green
+}
+
+.blue {
+    color: blue;
+}
+
+body {
+    font-style: Helvetica;
+}
+
+.navv {
+    background-color: #4f4e3b;
+}
+
+img.logo {
+    width: 200px;
+    border-radius: 100%;
+}
+
+span.menu {
+    font-size: 50px;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+
+hr {
+    color: black;
+}
+
+.zero-sidebar {
+    background-color: aliceblue;
+    padding-bottom: 50px;
+}
+
+body {
+    padding-top: 56px;
+}
+
+.navv {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 16.666667%;
+    overflow-y: auto;
+    padding-top: 56px;
+    background-color: aliceblue;
+}
+
+.main-content {
+    margin-left: 16.666667%;
+    padding: 20px;
+}
+
+.prod-jas {
+    background-color: aliceblue;
+}
