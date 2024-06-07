@@ -18,11 +18,15 @@
 
     <section class="zero-sidebar">
         <div class="container">
-            <div class="text-center pt-5">
-
-                <h1 class="pb-5">SIMPERPUSTAKAAN</h1>
-                <p>Selamat Datang di Website SIMPERPUSTAKAAN DESA TEGALGLAGAH</p>
+            <div class="row">
+            <div class="col-7">
+            <h1 class="pb-5 text-center pt-5">SIMPERPUSTAKAAN</h1>
+                <p class="text-center">Selamat Datang di Website SIMPERPUSTAKAAN DESA TEGALGLAGAH</p>
             </div>
+            <div class="col-5">
+                <img style="width: 300px;" src="img/buku1.png" alt="">
+            </div>
+            
         </div>
     </section>
 
@@ -129,22 +133,22 @@
                     <ul class="list-unstyled">
                         <li>
                             <a href="https://facebook.com" class="text-white">
-                                <img src="facebook-icon.png" alt="Facebook" class="mr-2"> Facebook
+                                <img style="width: 20px;" src="https://tse1.mm.bing.net/th?id=OIP.qAvEb6dwa1l715giSS_qBAHaHa&pid=Api&P=0&h=180" alt="Facebook" class="mr-2"> Facebook
                             </a>
                         </li>
                         <li>
                             <a href="https://twitter.com" class="text-white">
-                                <img src="twitter-icon.png" alt="Twitter" class="mr-2"> Twitter
+                                <img style="width: 20px;" src="https://static.vecteezy.com/system/resources/previews/026/406/678/original/social-media-x-logo-black-and-white-free-vector.jpg" alt="Twitter" class="mr-2"> Twitter
                             </a>
                         </li>
                         <li>
                             <a href="https://linkedin.com" class="text-white">
-                                <img src="linkedin-icon.png" alt="LinkedIn" class="mr-2"> LinkedIn
+                                <img style="width: 20px; ;" src="https://tse2.mm.bing.net/th?id=OIP.IGN7ID0TA0ssP_bPeBW0pAAAAA&pid=Api&P=0&h=180https://tse2.mm.bing.net/th?id=OIP.IGN7ID0TA0ssP_bPeBW0pAAAAA&pid=Api&P=0&h=180" alt="LinkedIn" class="mr-2"> LinkedIn
                             </a>
                         </li>
                         <li>
                             <a href="https://instagram.com" class="text-white">
-                                <img src="instagram-icon.png" alt="Instagram" class="mr-2"> Instagram
+                                <img style="width: 20px;" src="https://static.vecteezy.com/system/resources/previews/014/414/683/original/instagram-black-logo-on-transparent-background-free-vector.jpg" alt="Instagram" class="mr-2"> Instagram
                             </a>
                         </li>
                     </ul>

@@ -18,7 +18,9 @@
                     <hr>
                     <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-left text-left" id="menu">
                         <li class="nav-item">
+                        
                             <div class="row">
+                            
                                 <div class="col-2 pb-2">
                                     <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=v7EoCByoU6rv&format=png&color=000000" alt="Artikel Icon">
                                 </div>
@@ -59,7 +61,7 @@
                         </li>
                     </ul>
                     <div class="btn-group mt-auto">
-                        <button type="button" class="btn btn-danger">Login</button>
+                        <button type="button" class="btn btn-light">Login</button>
                         <button type="button" class="btn btn-danger dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
                             <span class="visually-hidden">Toggle Dropdown</span>
                         </button>

@@ -28,7 +28,7 @@
       <th scope="col">Tahun</th>
       <th scope="col">Pengarang</th>
       <th scope="col">Penerbit</th>
-      <th scope="col">Menu</th>
+      <th scope="col">Action</th>
 
     </tr>
 
